@@ -1,7 +1,7 @@
 def prime?(num)
   if num <= 1
     false
-  elsif math.sqrt 
+  elsif num.each math.sqrt 
   
   
 end
